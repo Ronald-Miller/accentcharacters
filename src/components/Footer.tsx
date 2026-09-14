@@ -48,7 +48,7 @@ export function Footer() {
               <span className="grad-signal flex h-9 w-9 items-center justify-center rounded-lg text-xl">
                 ä
               </span>
-              Accent<span className="text-[#e08ffc]">Lab</span>
+              Accent<span className="text-[#e08ffc]">Characters</span>
             </p>
             <p className="mt-4 max-w-sm text-sm leading-relaxed text-white/55">
               A complete, hand-verified reference for accented letters and

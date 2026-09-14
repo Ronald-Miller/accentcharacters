@@ -37,7 +37,7 @@ export function Header() {
             ä
           </span>
           <span className="text-[22px] font-black tracking-tight">
-            Accent<span className="text-signal">Lab</span>
+            Accent<span className="text-signal">Characters</span>
           </span>
         </Link>
 
