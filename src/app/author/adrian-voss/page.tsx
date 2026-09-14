@@ -15,8 +15,8 @@ import { ALL_LETTERS } from "@/lib/letters";
 import { AUTHOR, letterUrl, site } from "@/lib/site";
 import { authorPerson, webPage } from "@/lib/schema";
 
-const PAGE_TITLE = `${AUTHOR.name} — Author & Editor, AccentLab`;
-const PAGE_DESC = `Meet ${AUTHOR.name}, ${AUTHOR.role}. He compiles and hand-tests every accented letter, ALT code and keyboard shortcut published on AccentLab.`;
+const PAGE_TITLE = `${AUTHOR.name} — Author & Editor, Accent Characters`;
+const PAGE_DESC = `Meet ${AUTHOR.name}, ${AUTHOR.role}. He compiles and hand-tests every accented letter, ALT code and keyboard shortcut published on Accent Characters.`;
 
 export const metadata: Metadata = {
   title: { absolute: `${PAGE_TITLE} | ${site.name}` },
@@ -68,7 +68,7 @@ export default function AuthorPage() {
           <div className="mt-6 grid items-center gap-8 lg:grid-cols-[auto_1fr]">
             <Image
               src={AUTHOR.avatar}
-              alt={`Portrait of ${AUTHOR.name}`}
+              alt={`${AUTHOR.name}, ${AUTHOR.role} at Accent Characters`}
               width={220}
               height={220}
               priority

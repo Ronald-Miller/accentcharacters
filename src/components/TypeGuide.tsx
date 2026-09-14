@@ -22,7 +22,7 @@ function Kbd({ children }: { children: string }) {
 
 /**
  * Two keyboard methods for typing a sample accented letter, shown with
- * the actual codes of that letter. All prose is original to AccentLab.
+ * the actual codes of that letter. All prose is original to Accent Characters.
  */
 export function TypeGuide({
   letter,

@@ -14,9 +14,9 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { AUTHOR, dates, site } from "@/lib/site";
 import { webPage } from "@/lib/schema";
 
-const PAGE_TITLE = "About AccentLab — Editorial Policy & Accuracy Standards";
+const PAGE_TITLE = "About Accent Characters — Editorial Policy & Accuracy Standards";
 const PAGE_DESC =
-  "How AccentLab is researched, sourced and fact-checked: every accent letter compiled from the official Unicode Standard, every ALT code hand-tested by our editor.";
+  "How Accent Characters is researched, sourced and fact-checked: every accent letter compiled from the official Unicode Standard, every ALT code hand-tested by our editor.";
 
 export const metadata: Metadata = {
   title: { absolute: `${PAGE_TITLE} | ${site.name}` },
@@ -49,10 +49,10 @@ export default function AboutPage() {
         <div className="mx-auto max-w-6xl px-4 pb-10 pt-9 sm:px-6">
           <Breadcrumbs items={[{ label: "Accent Letters", href: "/" }, { label: "About" }]} />
           <h1 className="mt-4 max-w-3xl text-[clamp(2.3rem,5.5vw,3.9rem)] font-black leading-[1.04] tracking-tight">
-            About <span className="grad-text">AccentLab</span>
+            About <span className="grad-text">Accent Characters</span>
           </h1>
           <p className="mt-4 max-w-2xl text-lg leading-relaxed text-ink-soft">
-            AccentLab is an independent reference project with one job: make
+            Accent Characters is an independent reference project with one job: make
             every accented letter in the Latin alphabet one click away — and
             make every fact on the page trustworthy enough to cite.
           </p>
@@ -149,7 +149,7 @@ export default function AboutPage() {
             <h2 className="h-accent text-2xl font-extrabold tracking-tight">Why this site exists</h2>
             <div className="prose-block mt-4">
               <p>
-                AccentLab began with a résumé. A friend needed a German ü on
+                Accent Characters began with a résumé. A friend needed a German ü on
                 an English keyboard at 11 pm, and ten minutes of forum
                 scrolling produced three conflicting ALT codes and one wrong
                 answer. The information existed — it was just scattered,

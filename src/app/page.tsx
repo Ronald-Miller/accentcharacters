@@ -88,7 +88,7 @@ export default function HomePage() {
             An accent letter is a standard character refined by a diacritical
             mark — above it (<strong className="text-ink">á</strong>), below it (
             <strong className="text-ink">ç</strong>) or through it (
-            <strong className="text-ink">ø</strong>). AccentLab lets you copy
+            <strong className="text-ink">ø</strong>). Accent Characters lets you copy
             any of <strong className="text-ink">{TOTAL_CHARS} accented letters</strong>,
             small and capital, with a single click. No shortcuts to learn, no
             ALT codes to remember.

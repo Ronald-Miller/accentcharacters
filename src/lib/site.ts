@@ -1,14 +1,14 @@
 export const site = {
-  name: "AccentLab",
+  name: "Accent Characters",
   tagline: "Accent letters, made effortless.",
-  url: "https://www.accentlab.app",
+  url: "https://www.accentcharacters.com",
   title:
-    "Accent Letters — Copy & Paste Accented Letters (à, á, â, ã, ä, å, ç, é, ñ) | AccentLab",
+    "Accent Letters — Copy & Paste Accented Letters (à, á, â, ã, ä, å, ç, é, ñ) | Accent Characters",
   description:
     "Instantly copy 600+ accented letters — á, é, ç, ñ, ü and every accented variation of A–Z. Free one-click copy & paste tool with ALT codes, Unicode values HTML entities and typing guides.",
   ogDescription:
     "One click. 600+ accented letters. Copy á, é, ç, ñ, ü — every accented letter of the alphabet, with ALT codes and typing shortcuts.",
-  email: "hello@accentlab.app",
+  email: "hello@accentcharacters.com",
 };
 
 export function letterUrl(letter: string) {
@@ -51,12 +51,12 @@ export const AUTHOR: Author = {
   slug: "adrian-voss",
   name: "Adrian Voss",
   role: "Founder, Editor & Unicode Typography Researcher",
-  avatar: "/images/author.jpg",
+  avatar: "/images/adrian-voss-accent-characters-author.jpg",
   shortBio:
     "Typographer and keyboard-input researcher who has spent over a decade cataloguing how the world writes — and how to type it.",
   bio: [
-    "Adrian Voss is the founder and editor of AccentLab. He began his career in digital typesetting in 2013, building font workflows for multilingual publishing houses, where he first ran into the daily problem this site solves: accented letters are everywhere in the world’s writing, but nowhere on an English keyboard.",
-    "Since then he has catalogued the Latin-script diacritics used by more than 120 languages, audited how Windows, macOS, iOS and Android handle accent input, and tested every ALT code and keyboard shortcut published on AccentLab against the current versions of Microsoft Word, Windows 11 and macOS.",
+    "Adrian Voss is the founder and editor of Accent Characters. He began his career in digital typesetting in 2013, building font workflows for multilingual publishing houses, where he first ran into the daily problem this site solves: accented letters are everywhere in the world’s writing, but nowhere on an English keyboard.",
+    "Since then he has catalogued the Latin-script diacritics used by more than 120 languages, audited how Windows, macOS, iOS and Android handle accent input, and tested every ALT code and keyboard shortcut published on Accent Characters against the current versions of Microsoft Word, Windows 11 and macOS.",
     "Every reference table on this site is compiled directly from the Unicode Standard’s official character database, then verified by hand-typing each code on physical hardware. Adrian reviews and dates every page himself — if something here fails on your machine, he wants to hear about it.",
   ],
   expertise: [

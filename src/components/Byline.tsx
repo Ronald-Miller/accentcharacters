@@ -12,7 +12,7 @@ export function Byline() {
       <Link href={`/author/${AUTHOR.slug}`} className="group flex items-center gap-3">
         <Image
           src={AUTHOR.avatar}
-          alt={AUTHOR.name}
+          alt={`${AUTHOR.name} — Accent Characters author`}
           width={44}
           height={44}
           className="h-11 w-11 rounded-full border-2 border-[#c007ed]/40 object-cover transition-colors group-hover:border-[#c007ed]"

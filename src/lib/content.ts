@@ -1,5 +1,5 @@
 /**
- * Original editorial content for AccentLab.
+ * Original editorial content for Accent Characters.
  */
 
 export interface AccentType {
@@ -147,7 +147,7 @@ export const HOME_FAQS: Faq[] = [
   },
   {
     q: "How do I copy and paste an accented letter?",
-    a: "Click any tile on AccentLab and the character is copied straight to your clipboard — no selection, no keyboard shortcut, no sign-up. Then paste it wherever you like with Ctrl + V (Windows) or Cmd + V (Mac). Every character here is standard Unicode, so it works in Word, Google Docs, Excel, email, social networks and code editors alike.",
+    a: "Click any tile on Accent Characters and the character is copied straight to your clipboard — no selection, no keyboard shortcut, no sign-up. Then paste it wherever you like with Ctrl + V (Windows) or Cmd + V (Mac). Every character here is standard Unicode, so it works in Word, Google Docs, Excel, email, social networks and code editors alike.",
   },
   {
     q: "How do I type accent letters on a keyboard?",
@@ -167,10 +167,10 @@ export const HOME_FAQS: Faq[] = [
   },
   {
     q: "What is the difference between a diaeresis and an umlaut?",
-    a: "They look identical — two dots above a vowel — but they do different work. A diaeresis, used in French and English loan-words like naïve, tells you to pronounce the vowel separately from its neighbour. An umlaut, used in German, reshapes the vowel itself (schön sounds nothing like “schon”). Unicode assigns both roles to the same character set, so the letters on AccentLab work for either language.",
+    a: "They look identical — two dots above a vowel — but they do different work. A diaeresis, used in French and English loan-words like naïve, tells you to pronounce the vowel separately from its neighbour. An umlaut, used in German, reshapes the vowel itself (schön sounds nothing like “schon”). Unicode assigns both roles to the same character set, so the letters on Accent Characters work for either language.",
   },
   {
-    q: "Is AccentLab free to use?",
+    q: "Is Accent Characters free to use?",
     a: "Completely. There is no account, no download and no limit. The collection loads as a single static page, works instantly on desktop and mobile, and every character copies to your clipboard with one click. Bookmark it once and never memorise a key combination again.",
   },
 ];

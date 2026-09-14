@@ -16,7 +16,7 @@ export default function NotFound() {
       </p>
       <Link href="/" className="btn-primary mt-8 px-6 py-3 text-sm">
         <ArrowLeft size={15} />
-        Back to AccentLab
+        Back to Accent Characters
       </Link>
     </div>
   );

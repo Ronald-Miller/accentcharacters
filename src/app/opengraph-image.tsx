@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 import { site } from "@/lib/site";
 
-export const alt = "AccentLab — copy & paste accent letters";
+export const alt = "Accent Characters — copy & paste accent letters";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -37,7 +37,7 @@ export default function OgImage() {
           >
             ä
           </div>
-          <div style={{ fontSize: 34, fontWeight: 600, display: "flex" }}>AccentLab</div>
+          <div style={{ fontSize: 34, fontWeight: 600, display: "flex" }}>Accent Characters</div>
         </div>
         <div style={{ display: "flex", flexDirection: "column" }}>
           <div style={{ display: "flex", fontSize: 86, fontWeight: 700, lineHeight: 1.02, letterSpacing: -2 }}>
