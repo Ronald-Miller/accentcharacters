@@ -72,6 +72,9 @@ export const metadata: Metadata = {
     },
   },
   category: "reference",
+  verification: {
+    google: "hfemXn_iZdQo5cH-Jz6gLyl0b7i1gcEZvrHL71MDAY0",
+  },
 };
 
 export const viewport: Viewport = {
