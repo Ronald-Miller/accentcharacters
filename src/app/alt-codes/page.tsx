@@ -12,7 +12,7 @@ const PAGE_TITLE = "ALT Codes for Accent Letters — Complete Windows Alt Code R
 const PAGE_DESC = `Full ALT code list for all ${TOTAL_CHARS} accented letters, A to Z. Hold Alt and type the decimal code — every lowercase and capital accented letter with its Windows code, Unicode value and HTML entity.`;
 
 export const metadata: Metadata = {
-  title: { absolute: `${PAGE_TITLE} | ${site.name}` },
+  title: { absolute: PAGE_TITLE },
   description: PAGE_DESC,
   authors: [{ name: AUTHOR.name, url: `${site.url}/author/${AUTHOR.slug}` }],
   keywords: [

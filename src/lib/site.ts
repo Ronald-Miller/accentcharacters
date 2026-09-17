@@ -2,10 +2,9 @@ export const site = {
   name: "Accent Characters",
   tagline: "Accent letters, made effortless.",
   url: "https://www.accentcharacters.com",
-  title:
-    "Accent Letters — Copy & Paste Accented Letters (à, á, â, ã, ä, å, ç, é, ñ) | Accent Characters",
+  title: "Accent Characters — Copy & Paste Accented Letters (Aa to Zz)",
   description:
-    "Instantly copy 600+ accented letters — á, é, ç, ñ, ü and every accented variation of A–Z. Free one-click copy & paste tool with ALT codes, Unicode values HTML entities and typing guides.",
+    "Instantly copy 600+ accented letters — á, é, ç, ñ, ü and more. Free copy & paste tool with ALT codes, Unicode values, HTML entities & typing guides.",
   ogDescription:
     "One click. 600+ accented letters. Copy á, é, ç, ñ, ü — every accented letter of the alphabet, with ALT codes and typing shortcuts.",
   email: "hello@accentcharacters.com",

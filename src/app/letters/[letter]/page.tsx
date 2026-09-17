@@ -63,7 +63,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!g) return {};
   const path = letterUrl(g.letter);
   return {
-    title: { absolute: `${titleFor(g)} | ${site.name}` },
+    title: { absolute: titleFor(g) },
     description: descriptionFor(g),
     authors: [{ name: AUTHOR.name, url: `${site.url}/author/${AUTHOR.slug}` }],
     keywords: [

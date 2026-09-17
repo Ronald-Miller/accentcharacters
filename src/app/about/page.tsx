@@ -19,7 +19,7 @@ const PAGE_DESC =
   "How Accent Characters is researched, sourced and fact-checked: every accent letter compiled from the official Unicode Standard, every ALT code hand-tested by our editor.";
 
 export const metadata: Metadata = {
-  title: { absolute: `${PAGE_TITLE} | ${site.name}` },
+  title: { absolute: PAGE_TITLE },
   description: PAGE_DESC,
   alternates: { canonical: "/about" },
   openGraph: {

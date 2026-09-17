@@ -19,7 +19,7 @@ const PAGE_TITLE = `${AUTHOR.name} — Author & Editor, Accent Characters`;
 const PAGE_DESC = `Meet ${AUTHOR.name}, ${AUTHOR.role}. He compiles and hand-tests every accented letter, ALT code and keyboard shortcut published on Accent Characters.`;
 
 export const metadata: Metadata = {
-  title: { absolute: `${PAGE_TITLE} | ${site.name}` },
+  title: { absolute: PAGE_TITLE },
   description: PAGE_DESC,
   alternates: { canonical: `/author/${AUTHOR.slug}` },
   openGraph: {
