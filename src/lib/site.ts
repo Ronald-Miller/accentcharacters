@@ -1,7 +1,7 @@
 export const site = {
   name: "Accent Characters",
   tagline: "Accent letters, made effortless.",
-  url: "https://www.accentcharacters.com",
+  url: "https://accentcharacters.com",
   title: "Accent Characters — Copy & Paste Accented Letters (Aa to Zz)",
   description:
     "Instantly copy 600+ accented letters — á, é, ç, ñ, ü and more. Free copy & paste tool with ALT codes, Unicode values, HTML entities & typing guides.",
